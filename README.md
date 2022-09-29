@@ -1,11 +1,11 @@
 <p align="left">
     <img src="https://telegra.ph/file/8dd95173db909b52366d9.jpg"
 </p>
-<h1 align="left">Alya Bot</h1>
+<h1 align="left">WangsafBot</h1>
 
 > Original script dari [`Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 
-> Ubah nomor owner, nama bot, nama session, dll di [`config.js`](https://github.com/alya-tok/bot-alya/blob/master/config.js)
+> Ubah nomor owner, nama bot, nama session, dll di [`config.js`](https://github.com/BadBoys404/WangsafMd-Beta/blob/master/config.js)
 
 > Script ini support Termux, Heroku, Okteto, Rdp, Vps, Panel, Dll.
 
@@ -34,8 +34,8 @@
 * [`ariffb25`](https://github.com/ariffb25)
 
 ## Social
-* Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
-* Instagram [Here](https://instagram.com/alya.xzy)
+* Facebook [Here](https://www.facebook.com/alfachri.kurniawan.37)
+* WhatsApp [Here](Wa.me/6283145372436?text=Assalamualaikum%20tod)
 
 	
 </details>
