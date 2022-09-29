@@ -1,5 +1,3 @@
-<p align="left">
-    <img src="https://telegra.ph/file/8dd95173db909b52366d9.jpg"
 </p>
 <h1 align="left">WangsafBot</h1>
 
@@ -32,6 +30,8 @@
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`BochilGaming`](https://github.com/BochilGaming)
 * [`ariffb25`](https://github.com/ariffb25)
+* [`ZeeoneOfc`](https://github.com/zeeone-ofc)
+* [`Alya`](https://github.com/AliyaBot)
 
 ## Social
 * Facebook [Here](https://www.facebook.com/alfachri.kurniawan.37)
