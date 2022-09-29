@@ -35,7 +35,7 @@
 
 ## Social
 * Facebook [Here](https://www.facebook.com/alfachri.kurniawan.37)
-* WhatsApp [Here](Wa.me/6283145372436?text=Assalamualaikum%20tod)
+* WhatsApp [Here](https://wa.me/6283145372436?text=Assalamualaikum%20tod)
 
 	
 </details>
