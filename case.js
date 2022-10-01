@@ -2726,8 +2726,8 @@ rows: [
 {title: "Downloader", rowId: `menudown`, description: `Want to download something? Click here`},
 {title: "Islam", rowId: `menuislam`, description: `this features for muslim`},
 {title: "Voice Changer", rowId: `menuvo`, description: `this features for change your voice`},
-{title: "Text Pro", rowId: `menut` description: `I dont know what this feature is for`},
-{title: "Photo Oxy" rowId: `menup`, description: `I dont know what this feature is for`},
+{title: "Text Pro", rowId: `menut`, description: `I dont know what this feature is for`},
+{title: "Photo Oxy", rowId: `menup`, description: `I dont know what this feature is for`},
 {title: "Ephoto", rowId: `menue`, description: `I dont know what this feature is for`},
 {title: "Main", rowId: `menum`, description: `this features for helping someone`},
 {title: "Searchaching", rowId: `menusearch`, description: `this feature to search for something`},
@@ -2862,9 +2862,9 @@ return m.reply(`*I S L A M*
 *${no++}* ◦ ${prefix}tafsirsurah`)
 }
 break
-case 'menufun';{
+case 'menufun':{
 var no = 1
-return.reply(`*F U N*
+return m.reply(`*F U N*
 *${no++}* ◦ ${prefix}halah
 *${no++}* ◦ ${prefix}hilih
 *${no++}* ◦ ${prefix}huluh
@@ -3001,7 +3001,7 @@ return m.reply(`*R A N D O M*
 *${no++}* ◦ ${prefix}blowjob (nsfw)`)
 }
 break
-case 'menup'{
+case 'menup':{
 var no = 1
 return m.reply(`*P H O T O - O X Y*
 *${no++}* ◦ ${prefix}shadow
@@ -3018,7 +3018,7 @@ return m.reply(`*P H O T O - O X Y*
 *${no++}* ◦ ${prefix}retrolol`)
 }
 break
-case 'menue'{
+case 'menue':{
 var no = 1
 return m.reply(`*E - P H O T O*
 *${no++}* ◦ ${prefix}ffcover
@@ -3032,7 +3032,7 @@ return m.reply(`*E - P H O T O*
 *${no++}* ◦ ${prefix}ytcertificate`)
 }
 break
-case 'menum'{
+case 'menum':{
 var no = 1
 return m.reply(`*M A I N*
 *${no++}* ◦ ${prefix}ping
