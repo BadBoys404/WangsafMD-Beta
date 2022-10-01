@@ -1,5 +1,5 @@
 /**
-   * Create By Liya
+   * Create By Wangsaff
    * Contact Me on wa.me/6283145372436
    * Follow https://github.com/BadBoys404
 */
@@ -2726,7 +2726,7 @@ rows: [
 {title: "Downloader", rowId: `menudown`, description: `Want to download something? Click here`},
 {title: "Islam", rowld: `menuislam`, description: `this features for muslim`},
 {title: "Voice Changer", rold: `menuvo`, description: `this features for change your voice`},
-{title: "Text Pro", rowld: `memut` description: `I don't know what this feature is for`},
+{title: "Text Pro", rowld: `menut` description: `I don't know what this feature is for`},
 {title: "Photo Oxy" rowld: `menup`, description: `I don't know what this feature is for`},
 {title: "E-photo", rowld: `menue`, description: `I don't know what this feature is for`},
 {title: "Main", rowld: `menum`, description: `this features for helping someone`},
