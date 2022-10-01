@@ -1,5 +1,5 @@
 /**
-   * Create By Wangsaff
+   * Create By Liya
    * Contact Me on wa.me/6283145372436
    * Follow https://github.com/BadBoys404
 */
@@ -2724,19 +2724,19 @@ title: "THIS FAITURES BOT",
 rows: [
 {title: "Group Menu", rowId: `menugc`, description: `This faiture is only for groups`},
 {title: "Downloader", rowId: `menudown`, description: `Want to download something? Click here`},
-{title: "Islam", rowld: `menuislam`, description: `this features for muslim`},
-{title: "Voice Changer", rold: `menuvo`, description: `this features for change your voice`},
-{title: "Text Pro", rowld: `menut` description: `I don't know what this feature is for`},
-{title: "Photo Oxy" rowld: `menup`, description: `I don't know what this feature is for`},
-{title: "E-photo", rowld: `menue`, description: `I don't know what this feature is for`},
-{title: "Main", rowld: `menum`, description: `this features for helping someone`},
+{title: "Islam", rowId: `menuislam`, description: `this features for muslim`},
+{title: "Voice Changer", rowId: `menuvo`, description: `this features for change your voice`},
+{title: "Text Pro", rowId: `menut` description: `I dont know what this feature is for`},
+{title: "Photo Oxy" rowId: `menup`, description: `I dont know what this feature is for`},
+{title: "Ephoto", rowId: `menue`, description: `I dont know what this feature is for`},
+{title: "Main", rowId: `menum`, description: `this features for helping someone`},
 {title: "Searchaching", rowId: `menusearch`, description: `this feature to search for something`},
-{title: "Random", rold: `menura`, description: `random menu nsfw or random image`},
+{title: "Random", rowId: `menura`, description: `random menu nsfw or random image`},
 {title: "Text Maker", rowId: `menulog`, description: `features to create cool logos`},
 {title: "Menu Primbon", rowId: `menubon`, description: `for those of you who believe in prophecy`},
-{title: "Database", rowld : `menudata`, description: `this features for looking database bot`},
-{title: "Menu Fun", rowld: `menufun`, description: `this features for having fun with your friends`},
-{title: "Menu Anonymous", rowld: `menuno`, description: `Features for chatting`},
+{title: "Database", rowId : `menudata`, description: `this features for looking database bot`},
+{title: "Menu Fun", rowId: `menufun`, description: `this features for having fun with your friends`},
+{title: "Menu Anonymous", rowId: `menuno`, description: `Features for chatting`},
 {title: "Menu Owner", rowId: `menuner`, description: `this features is only for owners`},
 {title: "Convertings", rowId: `menucon`, description: `Features for converting media`},
 ]
