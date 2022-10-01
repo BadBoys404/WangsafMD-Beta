@@ -1,5 +1,5 @@
 /**
-   * Create By Wangsaff
+   * Create By Liya
    * Contact Me on wa.me/6283145372436
    * Follow https://github.com/BadBoys404
 */
@@ -649,8 +649,15 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!`)
 break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-◦ Script : https://github.com/BadBoys404/WangsafMD-Beta
+◦ Script : https://github.com/Nando35/ALYAM
 ◦ Script ori : https://github.com/DikaArdnt/ALYA-Morou
+
+Jangan lupa kasih bintang.
+◦ Donate : 628125284895 (Dana / gopay)
+◦ Saweria : https://saweria.co/Nando35
+◦ Paypal : https://www.paypal.me/Rifando35
+
+Dont Forget Donate
 `
 	                let btn = [{
                                 urlButton: {
@@ -2678,6 +2685,7 @@ lier = `\`\`\`Selamat ${ucapan} Kak @${m.sender.split('@')[0]} 😳\`\`\`
 │ *https://wa.me/${owner[0]}*
 │❒͡ *Time: ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}*
 │❒͡ *STATUS* :「 ${WANGSAF.public ? 'Public' : 'Self'} 」
+│❒͡ *Library:* _Baileys-Md_
 │
 ╰── 「 *${global.botname}* 」 ──
 
@@ -2693,7 +2701,6 @@ lier = `\`\`\`Selamat ${ucapan} Kak @${m.sender.split('@')[0]} 😳\`\`\`
 *Role: ${role}*
 *Your Balance: $${user.uangku}*
 ❉──────────────────❉  
-
 *── 「 BOT STATUS 」 ──*
 
 ⫹⫺ *${runtime(process.uptime())}*
@@ -2717,10 +2724,20 @@ title: "THIS FAITURES BOT",
 rows: [
 {title: "Group Menu", rowId: `menugc`, description: `This faiture is only for groups`},
 {title: "Downloader", rowId: `menudown`, description: `Want to download something? Click here`},
+{title: "Islam", rowld: `menuislam`, description: `this features for muslim`},
+{title: "Voice Changer", rold: `menuvo`, description: `this features for change your voice`},
+{title: "Text Pro", rowld: `memut` description: `I don't know what this feature is for`},
+{title: "Photo Oxy" rowld: `menup`, description: `I don't know what this feature is for`},
+{title: "E-photo", rowld: `menue`, description: `I don't know what this feature is for`},
+{title: "Main", rowld: `menum`, description: `this features for helping someone`},
 {title: "Searchaching", rowId: `menusearch`, description: `this feature to search for something`},
+{title: "Random", rold: `menura`, description: `random menu nsfw or random image`},
 {title: "Text Maker", rowId: `menulog`, description: `features to create cool logos`},
 {title: "Menu Primbon", rowId: `menubon`, description: `for those of you who believe in prophecy`},
-{title: "Menu Owner", rowId: `menuner`, description: `this faiture is only for owners`},
+{title: "Database", rowld : `menudata`, description: `this features for looking database bot`},
+{title: "Menu Fun", rowld: `menufun`, description: `this features for having fun with your friends`},
+{title: "Menu Anonymous", rowld: `menuno`, description: `Features for chatting`},
+{title: "Menu Owner", rowId: `menuner`, description: `this features is only for owners`},
 {title: "Convertings", rowId: `menucon`, description: `Features for converting media`},
 ]
 },
@@ -2751,6 +2768,16 @@ return m.reply(`*G R O U P S*
 *${no++}* ◦ ${prefix}upvote
 *${no++}* ◦ ${prefix}cekvote
 *${no++}* ◦ ${prefix}hapusvote`)
+}
+break
+case 'menuno':{
+var no = 1
+return m.reply(`*A N O N Y MO U S'
+*${no++}* ◦ ${prefix}anonymous
+*${no++}* ◦ ${prefix}start
+*${no++}* ◦ ${prefix}next
+*${no++}* ◦ ${prefix}keluar
+*${no++}* ◦ ${prefix}sendkontak`)
 }
 break
 case 'menudown':{
@@ -2825,6 +2852,34 @@ return m.reply(`*T E X T - M A K E R*
 *${no++}* ◦ ${prefix}gluetext`)
 }
 break
+case 'menuislam':{
+var no = 1
+return m.reply(`*I S L A M*
+*${no++}* ◦ ${prefix}iqra
+*${no++}* ◦ ${prefix}hadist
+*${no++}* ◦ ${prefix}alquran
+*${no++}* ◦ ${prefix}juzamma
+*${no++}* ◦ ${prefix}tafsirsurah`)
+}
+break
+case 'menufun';{
+var no = 1
+return.reply(`*F U N*
+*${no++}* ◦ ${prefix}halah
+*${no++}* ◦ ${prefix}hilih
+*${no++}* ◦ ${prefix}huluh
+*${no++}* ◦ ${prefix}heleh
+*${no++}* ◦ ${prefix}holoh
+*${no++}* ◦ ${prefix}jadian
+*${no++}* ◦ ${prefix}jodohku
+*${no++}* ◦ ${prefix}delttt
+*${no++}* ◦ ${prefix}tictactoe
+*${no++}* ◦ ${prefix}family100
+*${no++}* ◦ ${prefix}tebak [option]
+*${no++}* ◦ ${prefix}math [mode]
+*${no++}* ◦ ${prefix}suitpvp [@tag]`)
+}
+break
 case 'menubon':{
 var no = 1
 return m.reply(`*P R I M B O N*
@@ -2860,6 +2915,19 @@ return m.reply(`*P R I M B O N*
 *${no++}* ◦ ${prefix}shio`)
 }
 break
+case 'menudata':{
+var no = 1
+return m.reply(`*D A T A B A S E*
+*${no++}* ◦ ${prefix}setcmd
+*${no++}* ◦ ${prefix}listcmd
+*${no++}* ◦ ${prefix}delcmd
+*${no++}* ◦ ${prefix}lockcmd
+*${no++}* ◦ ${prefix}addmsg
+*${no++}* ◦ ${prefix}listmsg
+*${no++}* ◦ ${prefix}getmsg
+*${no++}* ◦ ${prefix}delmsg`)
+}
+break
 case 'menuner':{
 var no = 1
 return m.reply(`*O W N E R S*
@@ -2873,6 +2941,126 @@ return m.reply(`*O W N E R S*
 *${no++}* ◦ ${prefix}bcall [text]
 *${no++}* ◦ ${prefix}setppbot [image]
 *${no++}* ◦ ${prefix}setexif`)
+}
+break
+case 'menut':{
+var no = 1
+return m.reply(`*T E X T - P R O*
+*${no++}* ◦ ${prefix}3dchristma
+*${no++}* ◦ ${prefix}3ddeepsea
+*${no++}* ◦ ${prefix}americanflag
+*${no++}* ◦ ${prefix}3dscifi
+*${no++}* ◦ ${prefix}3drainbow
+*${no++}* ◦ ${prefix}3dwaterpipe
+*${no++}* ◦ ${prefix}halloweenskeleton
+*${no++}* ◦ ${prefix}sketch
+*${no++}* ◦ ${prefix}bluecircuit
+*${no++}* ◦ ${prefix}space
+*${no++}* ◦ ${prefix}metallic
+*${no++}* ◦ ${prefix}fiction
+*${no++}* ◦ ${prefix}greenhorror
+*${no++}* ◦ ${prefix}transformer
+*${no++}* ◦ ${prefix}berry
+*${no++}* ◦ ${prefix}thunder
+*${no++}* ◦ ${prefix}magma
+*${no++}* ◦ ${prefix}3dcrackedstone
+*${no++}* ◦ ${prefix}3dneonlight
+*${no++}* ◦ ${prefix}impressiveglitch
+*${no++}* ◦ ${prefix}naturalleaves
+*${no++}* ◦ ${prefix}fireworksparkle
+*${no++}* ◦ ${prefix}matrix
+*${no++}* ◦ ${prefix}dropwater
+*${no++}* ◦ ${prefix}harrypotter
+*${no++}* ◦ ${prefix}foggywindow
+*${no++}* ◦ ${prefix}neondevils
+*${no++}* ◦ ${prefix}christmasholiday
+*${no++}* ◦ ${prefix}3dgradient
+*${no++}* ◦ ${prefix}blackpink
+*${no++}* ◦ ${prefix}gluetext`)
+}
+break
+case 'menura':{
+var no = 1
+return m.reply(`*R A N D O M*
+*${no++}* ◦ ${prefix}coffe
+*${no++}* ◦ ${prefix}quotesanime
+*${no++}* ◦ ${prefix}motivasi
+*${no++}* ◦ ${prefix}dilanquote
+*${no++}* ◦ ${prefix}bucinquote
+*${no++}* ◦ ${prefix}katasenja
+*${no++}* ◦ ${prefix}puisi
+*${no++}* ◦ ${prefix}couple
+*${no++}* ◦ ${prefix}anime
+*${no++}* ◦ ${prefix}waifu
+*${no++}* ◦ ${prefix}husbu
+*${no++}* ◦ ${prefix}neko
+*${no++}* ◦ ${prefix}shinobu
+*${no++}* ◦ ${prefix}waifus (nsfw)
+*${no++}* ◦ ${prefix}nekos (nsfw)
+*${no++}* ◦ ${prefix}trap (nsfw)
+*${no++}* ◦ ${prefix}blowjob (nsfw)`)
+}
+break
+case 'menup'{
+var no = 1
+return m.reply(`*P H O T O - O X Y*
+*${no++}* ◦ ${prefix}shadow
+*${no++}* ◦ ${prefix}romantic
+*${no++}* ◦ ${prefix}smoke
+*${no++}* ◦ ${prefix}burnpapper
+*${no++}* ◦ ${prefix}naruto
+*${no++}* ◦ ${prefix}lovemsg
+*${no++}* ◦ ${prefix}grassmsg
+*${no++}* ◦ ${prefix}lovetext
+*${no++}* ◦ ${prefix}coffecup
+*${no++}* ◦ ${prefix}butterfly
+*${no++}* ◦ ${prefix}harrypotter
+*${no++}* ◦ ${prefix}retrolol`)
+}
+break
+case 'menue'{
+var no = 1
+return m.reply(`*E - P H O T O*
+*${no++}* ◦ ${prefix}ffcover
+*${no++}* ◦ ${prefix}crossfire
+*${no++}* ◦ ${prefix}galaxy
+*${no++}* ◦ ${prefix}glass
+*${no++}* ◦ ${prefix}neon
+*${no++}* ◦ ${prefix}beach
+*${no++}* ◦ ${prefix}blackpink
+*${no++}* ◦ ${prefix}igcertificate
+*${no++}* ◦ ${prefix}ytcertificate`)
+}
+break
+case 'menum'{
+var no = 1
+return m.reply(`*M A I N*
+*${no++}* ◦ ${prefix}ping
+*${no++}* ◦ ${prefix}owner
+*${no++}* ◦ ${prefix}menu / ${prefix}help / ${prefix}?
+*${no++}* ◦ ${prefix}delete
+*${no++}* ◦ ${prefix}infochat
+*${no++}* ◦ ${prefix}quoted
+*${no++}* ◦ ${prefix}listpc
+*${no++}* ◦ ${prefix}listgc
+*${no++}* ◦ ${prefix}listonline
+*${no++}* ◦ ${prefix}speedtest`)
+}
+break
+case 'menuvo':{
+var no = 1
+return m.reply(`*V O I C E - C H A N G E R*
+*${no++}* ◦ ${prefix}bass
+*${no++}* ◦ ${prefix}blown
+*${no++}* ◦ ${prefix}deep
+*${no++}* ◦ ${prefix}earrape
+*${no++}* ◦ ${prefix}fast
+*${no++}* ◦ ${prefix}fat
+*${no++}* ◦ ${prefix}nightcore
+*${no++}* ◦ ${prefix}reverse
+*${no++}* ◦ ${prefix}robot
+*${no++}* ◦ ${prefix}slow
+*${no++}* ◦ ${prefix}tupai`)
 }
 break
 case 'menucon':{
