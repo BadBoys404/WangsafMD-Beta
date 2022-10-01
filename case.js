@@ -1,5 +1,5 @@
 /**
-   * Create By Liya
+   * Create By Wangsaff
    * Contact Me on wa.me/6283145372436
    * Follow https://github.com/BadBoys404
 */
@@ -649,15 +649,8 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!`)
 break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-◦ Script : https://github.com/Nando35/ALYAM
+◦ Script : https://github.com/BadBoys404/WangsafMD-Beta
 ◦ Script ori : https://github.com/DikaArdnt/ALYA-Morou
-
-Jangan lupa kasih bintang.
-◦ Donate : 628125284895 (Dana / gopay)
-◦ Saweria : https://saweria.co/Nando35
-◦ Paypal : https://www.paypal.me/Rifando35
-
-Dont Forget Donate
 `
 	                let btn = [{
                                 urlButton: {
