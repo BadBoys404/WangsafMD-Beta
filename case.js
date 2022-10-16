@@ -1,5 +1,5 @@
 /**
-   * Create By Liya
+   * Create By Wangsaff
    * Contact Me on wa.me/6283145372436
    * Follow https://github.com/BadBoys404
 */
